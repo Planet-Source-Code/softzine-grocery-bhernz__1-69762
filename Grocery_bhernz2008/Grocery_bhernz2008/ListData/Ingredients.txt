@@ -1,0 +1,9 @@
+Salt,10.00,
+Pepper Black,10.00,
+Pepper Chili,10.00,
+Sugar White,32.00,
+Sugar Brown,30.00,
+
+
+
+

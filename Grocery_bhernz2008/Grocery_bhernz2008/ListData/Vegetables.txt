@@ -1,0 +1,16 @@
+Egg Plant,1.00,
+Lemon,0.50,
+Lettuce Head,0.25,
+Lettuce Romaine,0.50,
+Limes,0.35,
+Mushrooms,0.50,
+Onions,0.35,
+Potatoes,1.95,
+Tomatoes,1.05,
+Turnips,0.35,
+
+
+
+
+
+
